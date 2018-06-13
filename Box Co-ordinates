@@ -1,0 +1,10 @@
+These are the coordinates that should be accepted for the clicking in the boxes
+    Square 1: x1 10, x2 110, y1 10, y1 110
+    Square 2: x1 110, x2 210, y1 10, y1 110
+    Square 3: x1 210, x2 310, y1 10, y1 110
+    Square 4: x1 10, x2 110, y1 110, y1 210
+    Square 5: x1 110, x2 210, y1 110, y1 210
+    Square 6: x1 210, x2 310, y1 110, y1 210
+    Square 7: x1 10, x2 110, y1 210, y1 310
+    Square 8: x1 110, x2 210, y1 210, y1 310
+    Square 9: x1 210, x2 310, y1 210, y1 310
